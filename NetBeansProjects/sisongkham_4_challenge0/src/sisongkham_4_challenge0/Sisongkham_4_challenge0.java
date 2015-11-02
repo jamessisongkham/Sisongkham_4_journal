@@ -15,7 +15,7 @@ public class Sisongkham_4_challenge0 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         for(int i = 0;i < 100;i++){
+         for(int i = 0;i < 1000;i++){
                           if (isdivisibleby11(i) & isdivisibleby5(i) ){
                               System.out.println("animatethis");
                           } else if(isdivisibleby11(i) & isdivisibleby3(i)){
