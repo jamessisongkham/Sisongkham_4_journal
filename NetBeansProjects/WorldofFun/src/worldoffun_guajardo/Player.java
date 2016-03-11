@@ -10,7 +10,7 @@ public class Player {
     public float x = 96f;
     public float y = 228f;
     public int health = 100000;
-    public float speed = .9f;
+    public float speed = .5f;
     float hitboxX = x + 8f;
     float hitboxY = y + 8f;
     private int startX, startY, width = 30, height = 42;
